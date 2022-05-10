@@ -1,2 +1,2 @@
-import MergeSort
-MergeSort.main()
+import QuickSort
+QuickSort.main()
